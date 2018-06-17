@@ -1,5 +1,3 @@
-import java.lang.Math;
-import java.lang.Number;
 
 public class pascal
 {
